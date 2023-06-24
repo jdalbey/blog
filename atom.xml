@@ -1,0 +1,45 @@
+<?xml version="1.0" encoding="utf-8"?>
+<feed xmlns="http://www.w3.org/2005/Atom">
+
+  <title><![CDATA[This blog has no name]]></title>
+  <link href="https://jdalbey.github.io/blog//atom.xml" rel="self" />
+  <link href="https://jdalbey.github.io/blog/" />
+  <updated>2023-06-24T16:22:16-07:00</updated>
+  <id>https://jdalbey.github.io/blog/</id>
+  <author>
+    <name><![CDATA[John Dalbey]]></name>
+    <email><![CDATA[jdalbey@e.email]]></email>
+  </author>
+  <generator uri="https://github.com/jmacdotorg/plerd">Plerd</generator>
+
+
+  <entry>
+    <title type="html"><![CDATA[A sample entry]]></title>
+    <link href="https://jdalbey.github.io/blog/2023-06-24-a-sample-entry.html"/>
+    <published>2023-06-24T15:31:37-07:00</published>
+    <updated>2023-06-24T15:31:37-07:00</updated>
+    <id>https://jdalbey.github.io/blog/2023-06-24-a-sample-entry.html</id>
+    <content type="html"><![CDATA[<p>Today was fun.</p>
+
+<p>I hung out at <a href="http://empireteaandcoffee.com">the coffee shop</a>. Then I went home.</p>
+
+<p>Well, that’s all for now. Bye bye.</p>
+]]></content>
+  </entry>
+
+  <entry>
+    <title type="html"><![CDATA[My day today]]></title>
+    <link href="https://jdalbey.github.io/blog/2023-06-24-my-day-today.html"/>
+    <published>2023-06-24T15:28:27-07:00</published>
+    <updated>2023-06-24T15:28:27-07:00</updated>
+    <id>https://jdalbey.github.io/blog/2023-06-24-my-day-today.html</id>
+    <content type="html"><![CDATA[<p>I had a pretty good day today. </p>
+
+<p>I hung out at <a href="http://empireteaandcoffee.com">the coffee shop</a>. Then I went home.</p>
+
+<p>Well, that’s all for now. Bye bye.</p>
+]]></content>
+  </entry>
+
+
+</feed>
