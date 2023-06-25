@@ -13,12 +13,12 @@
 
     
     {
-      "id": "https://jdalbey.github.io/blog/2023-06-24-a-sample-entry.html",
-      "url": "https://jdalbey.github.io/blog/2023-06-24-a-sample-entry.html",
-      "title": "A sample entry",
-      "content_html": "<p>Today was fun.</p>\n\n<p>I hung out at <a href=\"http://empireteaandcoffee.com\">the coffee shop</a>. Then I went home.</p>\n\n<p>Well, that’s all for now. Bye bye.</p>\n",
-      "date_published": "2023-06-24T15:31:37-07:00",
-      "date_modified": "2023-06-24T15:31:37-07:00"
+      "id": "https://jdalbey.github.io/blog/2023-06-24-another-sample-entry.html",
+      "url": "https://jdalbey.github.io/blog/2023-06-24-another-sample-entry.html",
+      "title": "Another sample entry",
+      "content_html": "<p>This is a sample blog entry.</p>\n\n<p>That’s all, there ain’t no more.</p>\n",
+      "date_published": "2023-06-24T16:59:37-07:00",
+      "date_modified": "2023-06-24T16:59:37-07:00"
     },
 
     
@@ -26,9 +26,9 @@
       "id": "https://jdalbey.github.io/blog/2023-06-24-a-sample-entry.html",
       "url": "https://jdalbey.github.io/blog/2023-06-24-a-sample-entry.html",
       "title": "A sample entry",
-      "content_html": "<p>This is a sample blog entry.</p>\n\n<p>That’s all, there ain’t no more.</p>\n",
+      "content_html": "<p>Today was fun.</p>\n\n<p>I hung out at <a href=\"http://empireteaandcoffee.com\">the coffee shop</a>. Then I went home.</p>\n\n<p>Well, that’s all for now. Bye bye.</p>\n",
       "date_published": "2023-06-24T15:31:37-07:00",
-      "date_modified": "2023-06-24T16:51:27-07:00"
+      "date_modified": "2023-06-24T15:31:37-07:00"
     },
 
     
