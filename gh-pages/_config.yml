@@ -1,0 +1,10 @@
+title: "My Blog"
+description: "Short description of your blog"
+baseurl: ""          # set to "" for user/organization site; "/repo" for project site
+url: "https://USERNAME.github.io"  # replace USERNAME
+theme: minima
+permalink: /:year/:month/:day/:title/
+paginate: 5
+markdown: kramdown
+collections: {}
+exclude: ["README.md"]
