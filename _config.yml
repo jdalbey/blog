@@ -1,8 +1,9 @@
 title: "My Blog"
 description: "Short description of your blog"
-baseurl: ""          # set to "" for user/organization site; "/repo" for project site
-url: "https://USERNAME.github.io"  # replace USERNAME
-theme: minima
+baseurl: "/blog"     # set to "" for user/organization site; "/repo" for project site
+url: "https://jdalbey.github.io"
+# theme isn't needed cause I provide layout, includes, assets, etc.
+# theme: minima
 permalink: /:year/:month/:day/:title/
 paginate: 5
 markdown: kramdown
