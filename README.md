@@ -1,2 +1,2 @@
 # blog
-An experiment with Pelican to create a blog. 
+An experimental blog using Jekyll.
