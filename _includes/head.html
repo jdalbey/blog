@@ -34,36 +34,11 @@
 	/>
 	{%- else -%}
 	<meta
-		content="{{ '/assets/img/touring.jpg' | absolute_url }}"
+		content="{{ '/assets/img/mountains.jpg' | absolute_url }}"
 		property="og:image"
 	/>
 	{%- endif -%}
 
-	<!-- Twitter Cards -->
-	<meta name="twitter:card" content="summary" />
-	<meta name="twitter:site" content="@{{ site.social.twitter }}" />
-	<meta name="twitter:creator" content="@{{ site.social.twitter }}" />
-	{%- if page.title -%}
-	<meta name="twitter:title" content="{{ page.title }}" />
-	{%- else -%}
-	<meta name="twitter:title" content="{{ site.title }}" />
-	{%- endif -%} {%- if page.url -%}
-	<meta name="twitter:url" content="{{ page.url | absolute_url }}" />
-	{%- endif -%} {%- if page.description -%}
-	<meta name="twitter:description" content="{{ page.description }}" />
-	{%- else -%}
-	<meta name="twitter:description" content="{{ site.description }}" />
-	{%- endif -%} {%- if page.image -%}
-	<meta
-		name="twitter:image:src"
-		content="{{ '/assets/img/' | append:page.image | absolute_url }}"
-	/>
-	{%- else -%}
-	<meta
-		name="twitter:image:src"
-		content="{{ '/assets/img/touring.jpg' | absolute_url }}"
-	/>
-	{%- endif -%}
 
 	<!-- Favicon -->
 	<link rel="icon" type="image/x-icon" href="{{/assets/img/favicon.ico | relative_url }}"/>
