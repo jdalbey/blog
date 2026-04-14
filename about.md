@@ -1,10 +1,10 @@
 ---
 layout: default
-title: About
+title: About This Blog
 ---
-## Latest posts
 
-<h1>About</h1>
-This is a mystery blog. Or a blog about The Mystery. 
-<hr>
-
+<div class="post">
+	<h1 class="pageTitle">About This Blog</h1>
+	<img src="{{ '/assets/img/touring.jpg' | relative_url }}" alt="">
+	<p class="intro">A simple starter blog.</p>
+</div>
